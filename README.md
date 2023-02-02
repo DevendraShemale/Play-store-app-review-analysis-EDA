@@ -1,7 +1,10 @@
 # Play-store-app-review-analysis-EDA
-Problem Statement - To perform Exploratory Data Analysis (EDA) in order to generate insights to understand customer demands better and thus help developers to popularize the product.
+Problem Statement -
+
+To perform Exploratory Data Analysis (EDA) in order to generate insights to understand customer demands better and thus help developers to popularize the product.
 
 Conclusion -
+
 1.The apps from the categories like GAME,COMMUNICATION, SOCIAL, PRODUCTIVITY, TOOLS of having the highest amount of installs, rating and reviews.
 
 2.Top 5 most expensive app are mostly from FINANCE and LIFESTYLE category.
